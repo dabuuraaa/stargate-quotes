@@ -14,8 +14,8 @@ on:
 
 # Edit these to your desired 2-day window (UTC)
 env:
-    START_ISO_UTC: "2025-08-25T12:00:00Z"
-    END_ISO_UTC:   "2025-08-27T12:10:00Z"
+    START_ISO_UTC: "2025-08-25T13:00:00Z"
+    END_ISO_UTC:   "2025-08-27T13:00:00Z"
     PYTHONUNBUFFERED: '1'
 
 jobs:
